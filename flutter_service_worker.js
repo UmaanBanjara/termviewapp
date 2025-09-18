@@ -32,12 +32,12 @@ const RESOURCES = {"assets/assets/fonts/FiraCode-VariableFont_wght.ttf": "7b26f7
 "canvaskit/skwasm.js": "1ef3ea3a0fec4569e5d531da25f34095",
 "canvaskit/skwasm.js.symbols": "0088242d10d7e7d6d2649d1fe1bda7c1",
 "canvaskit/skwasm_heavy.js": "413f5b2b2d9345f37de148e2544f584f",
-"main.dart.js": "0eaa1ea367ac474667c1f5bad4687756",
+"main.dart.js": "85059ed32437b91833a808b1d5176994",
 "mainfavi.png": "9fa87c790354eb5341c902c4af3f9287",
 "index.html": "8cce5b7e22fdd87ef8e7b7b5e3e2534d",
 "/": "8cce5b7e22fdd87ef8e7b7b5e3e2534d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter_bootstrap.js": "186c5b82dff10d0f59e06613558118ac",
+"flutter_bootstrap.js": "7edcdf37d85e2ae96a0f2537f5480c58",
 "version.json": "4119616a7c255c8c9dd4b8d4582ddac1"};
 // The application shell files that are downloaded before a service worker can
 // start.

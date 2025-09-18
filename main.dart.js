@@ -89445,7 +89445,7 @@ A.n2.prototype={
 lD(a,b){return this.am7(a,b)},
 am7(a,b){var s=0,r=A.N(t.a),q,p,o,n,m
 var $async$lD=A.J(function(c,d){if(c===1)return A.K(d,r)
-while(true)switch(s){case 0:p=A.d4("your-render-url/auth/delacc")
+while(true)switch(s){case 0:p=A.d4("https://termview-backend.onrender.com/auth/delacc")
 o=t.N
 n=A.ai(["Authorization","Bearer "+b,"Content-Type","application/json"],o,o)
 s=3
@@ -89460,7 +89460,7 @@ A.n5.prototype={
 Ah(a){return this.amL(a)},
 amL(a){var s=0,r=A.N(t.a),q,p,o,n,m
 var $async$Ah=A.J(function(b,c){if(b===1)return A.K(c,r)
-while(true)switch(s){case 0:p=A.d4("your-render-url/end/endsession")
+while(true)switch(s){case 0:p=A.d4("https://termview-backend.onrender.com/end/endsession")
 o=t.N
 n=A.ai(["Content-Type","application/json"],o,o)
 s=3
@@ -89475,7 +89475,7 @@ A.n8.prototype={
 lH(){var s=0,r=A.N(t.Qx),q,p,o,n
 var $async$lH=A.J(function(a,b){if(a===1)return A.K(b,r)
 while(true)switch(s){case 0:s=3
-return A.P(A.aZf(A.d4("your-render-url/fetch/fetchall")),$async$lH)
+return A.P(A.aZf(A.d4("https://termview-backend.onrender.com/fetch/fetchall")),$async$lH)
 case 3:n=b
 if(n.b===200){p=t.kc.a(J.aL(B.aa.kA(0,A.pd(A.p5(n.e)).dM(0,n.w),null),"sessions"))
 if(p==null)p=[]
@@ -89504,7 +89504,7 @@ A.ne.prototype={
 lT(a,b,c){return this.ano(a,b,c)},
 ano(a,b,c){var s=0,r=A.N(t.a),q,p,o,n,m
 var $async$lT=A.J(function(d,e){if(d===1)return A.K(e,r)
-while(true)switch(s){case 0:p=A.d4("your-render-url/auth/forpass")
+while(true)switch(s){case 0:p=A.d4("https://termview-backend.onrender.com/auth/forpass")
 o=t.N
 n=A.ai(["Authorization","Bearer "+c,"Content-Type","application/json"],o,o)
 s=3
@@ -89519,7 +89519,7 @@ A.nC.prototype={
 B2(a,b){return this.apH(a,b)},
 apH(a,b){var s=0,r=A.N(t.a),q,p,o,n,m
 var $async$B2=A.J(function(c,d){if(c===1)return A.K(d,r)
-while(true)switch(s){case 0:p=A.d4("your-render-url/auth/login")
+while(true)switch(s){case 0:p=A.d4("https://termview-backend.onrender.com/auth/login")
 o=t.N
 n=A.ai(["Content-Type","application/json"],o,o)
 s=3
@@ -89534,7 +89534,7 @@ A.nX.prototype={
 k5(a,b,c,d,e,f,g){return this.arj(a,b,c,d,!0,f,g)},
 arj(a,b,c,d,e,f,g){var s=0,r=A.N(t.a),q,p,o,n,m,l
 var $async$k5=A.J(function(h,i){if(h===1)return A.K(i,r)
-while(true)switch(s){case 0:o=A.aRx("POST",A.d4("your-render-url/auth/upload/thumbnail"))
+while(true)switch(s){case 0:o=A.aRx("POST",A.d4("https://termview-backend.onrender.com/auth/upload/thumbnail"))
 n=A.aCE(new A.je(A.aGY(c,t.Cm)))
 m=A.ND("application","octet-stream",null)
 n=A.jW(new A.B3("file",c.length,d,m,n),t.gt)
@@ -89563,7 +89563,7 @@ A.ol.prototype={
 wX(a,b,c,d,e){return this.a_r(a,b,c,d,e)},
 a_r(a,b,c,d,e){var s=0,r=A.N(t.a),q,p,o,n,m
 var $async$wX=A.J(function(f,g){if(f===1)return A.K(g,r)
-while(true)switch(s){case 0:p=A.d4("your-render-url/auth/signup")
+while(true)switch(s){case 0:p=A.d4("https://termview-backend.onrender.com/auth/signup")
 o=t.N
 n=A.ai(["Content-Type","application/json"],o,o)
 s=3
